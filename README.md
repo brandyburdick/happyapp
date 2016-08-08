@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# happyapp
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -25,6 +25,3 @@ Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
 # happyhourapp
 # happyhourapp
-=======
-# happyapp
->>>>>>> b82261aa1f3f7d4f85cf2edb0a10cf75f87003f2
