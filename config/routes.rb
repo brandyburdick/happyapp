@@ -2,6 +2,12 @@ Rails.application.routes.draw do
   get 'index' => 'welcome#index'
 
   get 'contact' => 'welcome#contact'
+  
+  get 'downtown' => 'welcome#downtown'
+
+  get 'scottsdale' => 'welcome#scottsdale'
+
+  get 'tempe' => 'welcome#tempe'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

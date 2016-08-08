@@ -5,6 +5,8 @@ class WelcomeController < ApplicationController
     
   end
 
-  def about
+  def contact
+    @brandy = "Brandy Burdick"
+    @alexander = "Alexander Ames"
   end
 end
