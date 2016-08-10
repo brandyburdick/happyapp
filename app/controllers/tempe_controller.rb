@@ -1,0 +1,2 @@
+class TempeController < ApplicationController
+end

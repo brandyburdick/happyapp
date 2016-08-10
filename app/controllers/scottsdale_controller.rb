@@ -1,0 +1,2 @@
+class ScottsdaleController < ApplicationController
+end

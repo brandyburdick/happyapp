@@ -11,4 +11,17 @@ class WelcomeController < ApplicationController
     @alexander = "Alexander Ames"
 
   end
+  
+  def downtown
+    
+  end
+  
+  def scottsdale
+    
+  end
+  
+  def tempe
+    
+  end
+  
 end
