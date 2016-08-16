@@ -31,14 +31,14 @@
      <!--Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><%= link_to "About", root_path %> <span class="sr-only">(current)</span></a></li>
-        <li><%= link_to "contact", contact_path %></a></li>
+        <li class="active"><%= link_to "About", root_path %> <span class="sr-only">(current)</span></li>
+        <li><%= link_to "Contact", contact_path %></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Locations <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="welcome#downtown">Downtown</a></li>
-            <li><a href="welcome#scottsdale">Scottsdale</a></li>
-            <li><a href="welcome#tempe">Tempe</a></li>
+            <li><%= link_to "Downtown", downtown_path %></li>
+            <li><%= link_to "Scottsdale", scottsdale_path %></li>
+            <li><%= link_to "Tempe", tempe_path %></li>
           </ul>
         </li>
       </ul>

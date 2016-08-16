@@ -1,7 +1,7 @@
 class WelcomeController < ApplicationController
   
   def index
-    @locations = ['Downtown Phoenix', 'Midtown', 'Old Town Scottsdale', 'Tempe/ASU' ]
+    @locations = ['Downtown Phoenix', 'Old Town Scottsdale', 'Tempe/ASU' ]
     
   end
 
